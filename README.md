@@ -1,7 +1,7 @@
 ### Olá, eu sou o Guilherme, um estudante universitário me especializando em BackEnd com C# 🙋🏼‍♂️
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme705218&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme705218)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias que eu uso no meu dia-a-dia
 
 <div style="display: inline_block"></br>
