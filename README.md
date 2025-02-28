@@ -1,6 +1,6 @@
 ### Olá, eu sou o Guilherme, um estudante universitário me especializando em BackEnd com C# 🙋🏼‍♂️
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-borga&show_icons=true&theme=radical)
+![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-borba&show_icons=true&theme=radical)
 
 ### Tecnologias que eu uso no meu dia-a-dia
 
