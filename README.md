@@ -1,4 +1,4 @@
-### Olá, eu sou o Guilherme, um estudante universitário me especializando em BackEnd com C# 🙋🏼‍♂️
+### Olá, eu sou um estudante universitário e desenvolvedor BackEnd com C# 🙋🏼‍♂️
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-borba&show_icons=true&theme=radical)
 
